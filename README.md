@@ -1,24 +1,4 @@
 # main-prj-01-starting-setup
+Main project for udemy vuejs course, https://www.udemy.com/course/vuejs-2-the-complete-guide
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This project is for the Vue 3 version of the course and it is implemented using typescript.
